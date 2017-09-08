@@ -16,7 +16,7 @@ import requests
 databaseFile = "/home/pi/nestapi.sqlite"
 iftttEventName = "YOUR_EVENT_NAME"
 iftttSecretKey = "YOUR_EVENT_KEY"
-nestAPIURL = "https://firebase-apiserver10-tah01-iad01.dapi.production.nest.com:9553/?auth=c.0TNn_YOUR_NEST_API_KEY"
+nestAPIURL = "https://firebase-apiserver10-tah01-iad01.dapi.production.nest.com:9553/?auth=YOUR_c._NEST_API_KEY"
 
 ####################################
 # No need to alter anything below  #
